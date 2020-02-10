@@ -1,0 +1,225 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Item Item basic render snapshoot 1`] = `
+<div
+  className="Itemstyles__ItemContainer-sc-18euzxw-0 dwMADO"
+>
+  <div
+    className="Itemstyles__IteamHeader-sc-18euzxw-1 higtFY"
+  >
+    <span>
+      Shalion
+    </span>
+    <div
+      className="Itemstyles__ActionsColumn-sc-18euzxw-2 ctbetM"
+    >
+      <span
+        onClick={[Function]}
+      >
+        Edit
+      </span>
+      <span
+        onClick={[Function]}
+      >
+        Delete
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Item Item render snapshoot with name and avgPriceAmazon 1`] = `
+<div
+  className="Itemstyles__ItemContainer-sc-18euzxw-0 dwMADO"
+>
+  <div
+    className="Itemstyles__IteamHeader-sc-18euzxw-1 higtFY"
+  >
+    <span>
+      Shalion
+    </span>
+    <div
+      className="Itemstyles__ActionsColumn-sc-18euzxw-2 ctbetM"
+    >
+      <span
+        onClick={[Function]}
+      >
+        Edit
+      </span>
+      <span
+        onClick={[Function]}
+      >
+        Delete
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Item Item render snapshoot with name and avgPriceCarethy 1`] = `
+<div
+  className="Itemstyles__ItemContainer-sc-18euzxw-0 dwMADO"
+>
+  <div
+    className="Itemstyles__IteamHeader-sc-18euzxw-1 higtFY"
+  >
+    <span>
+      Shalion
+    </span>
+    <div
+      className="Itemstyles__ActionsColumn-sc-18euzxw-2 ctbetM"
+    >
+      <span
+        onClick={[Function]}
+      >
+        Edit
+      </span>
+      <span
+        onClick={[Function]}
+      >
+        Delete
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Item Item render snapshoot with name and date 1`] = `
+<div
+  className="Itemstyles__ItemContainer-sc-18euzxw-0 dwMADO"
+>
+  <div
+    className="Itemstyles__IteamHeader-sc-18euzxw-1 higtFY"
+  >
+    <span>
+      Shalion
+    </span>
+    <div
+      className="Itemstyles__ActionsColumn-sc-18euzxw-2 ctbetM"
+    >
+      <span
+        onClick={[Function]}
+      >
+        Edit
+      </span>
+      <span
+        onClick={[Function]}
+      >
+        Delete
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Item Item render snapshoot with name, avgPriceCarethy and avgPriceAmazon 1`] = `
+<div
+  className="Itemstyles__ItemContainer-sc-18euzxw-0 dwMADO"
+>
+  <div
+    className="Itemstyles__IteamHeader-sc-18euzxw-1 higtFY"
+  >
+    <span>
+      Shalion
+    </span>
+    <div
+      className="Itemstyles__ActionsColumn-sc-18euzxw-2 ctbetM"
+    >
+      <span
+        onClick={[Function]}
+      >
+        Edit
+      </span>
+      <span
+        onClick={[Function]}
+      >
+        Delete
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Item Item render snapshoot with name, date and avgPriceAmazon 1`] = `
+<div
+  className="Itemstyles__ItemContainer-sc-18euzxw-0 dwMADO"
+>
+  <div
+    className="Itemstyles__IteamHeader-sc-18euzxw-1 higtFY"
+  >
+    <span>
+      Shalion
+    </span>
+    <div
+      className="Itemstyles__ActionsColumn-sc-18euzxw-2 ctbetM"
+    >
+      <span
+        onClick={[Function]}
+      >
+        Edit
+      </span>
+      <span
+        onClick={[Function]}
+      >
+        Delete
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Item Item render snapshoot with name, date and avgPriceCarethy 1`] = `
+<div
+  className="Itemstyles__ItemContainer-sc-18euzxw-0 dwMADO"
+>
+  <div
+    className="Itemstyles__IteamHeader-sc-18euzxw-1 higtFY"
+  >
+    <span>
+      Shalion
+    </span>
+    <div
+      className="Itemstyles__ActionsColumn-sc-18euzxw-2 ctbetM"
+    >
+      <span
+        onClick={[Function]}
+      >
+        Edit
+      </span>
+      <span
+        onClick={[Function]}
+      >
+        Delete
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Item Item render snapshoot with name, date, avgPriceCarethy and avgPriceAmazon 1`] = `
+<div
+  className="Itemstyles__ItemContainer-sc-18euzxw-0 dwMADO"
+>
+  <div
+    className="Itemstyles__IteamHeader-sc-18euzxw-1 higtFY"
+  >
+    <span>
+      Shalion
+    </span>
+    <div
+      className="Itemstyles__ActionsColumn-sc-18euzxw-2 ctbetM"
+    >
+      <span
+        onClick={[Function]}
+      >
+        Edit
+      </span>
+      <span
+        onClick={[Function]}
+      >
+        Delete
+      </span>
+    </div>
+  </div>
+</div>
+`;

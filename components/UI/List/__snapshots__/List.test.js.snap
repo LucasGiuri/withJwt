@@ -1,0 +1,184 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List List basic render snapshoot with basic list 1`] = `
+.c0 div {
+  border-top: none;
+}
+
+.c1 {
+  padding: 14px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  cursor: pointer;
+  border-bottom: 1px solid #3f51b5;
+  font-family: 'Roboto',sans-serif;
+  font-size: 22px;
+  color: #3f51b5;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-flex-basis: 30%;
+  -ms-flex-preferred-size: 30%;
+  flex-basis: 30%;
+}
+
+.c3 {
+  padding: 14px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  cursor: pointer;
+  border-bottom: 1px solid #999999;
+  font-family: 'Roboto',sans-serif;
+  font-size: 22px;
+  -webkit-transition: 0.25s;
+  transition: 0.25s;
+  color: #999999;
+}
+
+.c3:hover {
+  color: #FFFFFF;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding-bottom: 34px;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-flex-basis: 30%;
+  -ms-flex-preferred-size: 30%;
+  flex-basis: 30%;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <span
+      id="sortByName"
+    >
+      Sensor Name
+    </span>
+    <div
+      className="c2"
+    >
+      <span
+        id="editLabel"
+      >
+        Edit
+      </span>
+      <span
+        id="deleteLabel"
+      >
+        Delete
+      </span>
+    </div>
+  </div>
+  <div
+    className="c3"
+  >
+    <div
+      className="c4"
+    >
+      <span>
+        American Crew Champú Anticaspa 250 ml
+      </span>
+      <div
+        className="c5"
+      >
+        <span>
+          Edit
+        </span>
+        <span>
+          Delete
+        </span>
+      </div>
+    </div>
+  </div>
+  <div
+    className="c3"
+  >
+    <div
+      className="c4"
+    >
+      <span>
+        American Crew Champú Anticaspa 250 ml
+      </span>
+      <div
+        className="c5"
+      >
+        <span>
+          Edit
+        </span>
+        <span>
+          Delete
+        </span>
+      </div>
+    </div>
+  </div>
+  <div
+    className="c3"
+  >
+    <div
+      className="c4"
+    >
+      <span>
+        American Crew Champú Anticaspa 250 ml
+      </span>
+      <div
+        className="c5"
+      >
+        <span>
+          Edit
+        </span>
+        <span>
+          Delete
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;

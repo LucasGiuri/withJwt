@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Button basic render snapshoot 1`] = `
+.c0 {
+  padding: 10px;
+  color: #3f51b5;
+  cursor: pointer;
+  border-color: #3f51b5;
+  background-color: #FFFFFF;
+  font-size: 14px;
+}
+
+@media (min-width:320px) {
+  .c0 {
+    width: 49%;
+  }
+}
+
+@media (min-width:768px) {
+  .c0 {
+    width: auto;
+    margin-left: 14px;
+  }
+}
+
+<button
+  className="c0"
+  onClick={[Function]}
+>
+  Button
+</button>
+`;
+
+exports[`Button Button isDisabled render snapshoot 1`] = `
+.c0 {
+  padding: 10px;
+  color: #999999;
+  cursor: not-allowed;
+  border-color: #999999;
+  background-color: #FFFFFF;
+  font-size: 14px;
+}
+
+@media (min-width:320px) {
+  .c0 {
+    width: 49%;
+  }
+}
+
+@media (min-width:768px) {
+  .c0 {
+    width: auto;
+    margin-left: 14px;
+  }
+}
+
+<button
+  className="c0"
+  onClick={[Function]}
+>
+  Button
+</button>
+`;

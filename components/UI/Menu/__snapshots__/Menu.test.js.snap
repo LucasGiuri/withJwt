@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Menu Menu basic render snapshoot 1`] = `
+<List>
+  <NavLink
+    as="/"
+    href="/"
+  >
+    <ListItem
+      button={true}
+    >
+      <ListItemText
+        primary="Home"
+      />
+    </ListItem>
+  </NavLink>
+  <NavLink
+    as="/dashboard"
+    href="/dashboard"
+  >
+    <ListItem
+      button={true}
+    >
+      <ListItemText
+        primary="Dashboard"
+      />
+    </ListItem>
+  </NavLink>
+</List>
+`;
